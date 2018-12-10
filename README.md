@@ -50,5 +50,6 @@ _Body_ : `[
           ]`
           
 **Delete user by ID = 300**
+
 _DELETE_ `localhost:8080/user/300`
  
